@@ -1,0 +1,5 @@
+ht=float(input('enter your height: '))
+print('ht=',ht)
+if ht<150: print('the person is dwarf')
+elif ht>=150: print('the person is of average height')
+elif ht>=165: print('the person is tall')

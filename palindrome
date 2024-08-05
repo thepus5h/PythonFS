@@ -1,0 +1,9 @@
+x=input('enter value: ')
+print(x)
+if x==x[-1::-1]:
+    print('palindrome')
+else:
+    print('not a palindrome')    
+
+
+#(x[0]==x[-1]and x[1]==x[-2])

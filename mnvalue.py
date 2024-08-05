@@ -1,0 +1,5 @@
+m=int(input('enter m value: '))
+print('m=',m)
+if m>0: print('n=1')
+elif m==0: print('n=0')
+else:print('n=-1')

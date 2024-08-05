@@ -1,0 +1,6 @@
+x=float(input("enter x value"))
+y=float(input("enter y value"))
+print(x)
+print(y)
+if(x>y):print('x is maximum')
+else: print('y is maximum') 
